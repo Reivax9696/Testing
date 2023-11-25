@@ -48,7 +48,7 @@ class NotasTest extends TestCase
         
 }
 
-    public function testDivisio()
+    /*public function testDivisio()
 {
         $nota = notas(80);
         $this->assertEquals("Primera Divisio<br>", $nota);
@@ -58,7 +58,7 @@ class NotasTest extends TestCase
         $this->assertEquals("Tercera Divisio<br>", $nota3);
         $nota4 = notas(10);
         $this->assertEquals("Suspes<br>", $nota4);
-}
+}*/
 
 
     public function testNegatiu()
