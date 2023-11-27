@@ -48,7 +48,7 @@ class NotasTest extends TestCase
         
 }
 
-    /*public function testDivisio()
+    /*public function testDivisio() //En el caso de TDD seria mas correcto el codigo que he escrito arriba no?
 {
         $nota = notas(80);
         $this->assertEquals("Primera Divisio<br>", $nota);
